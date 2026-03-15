@@ -36,7 +36,7 @@ public class AcumuladoresTest {
 		acum = new Acumuladores();
 		// Para todos los tests
 		int[][] aux = { 
-				{  1,  9,  6,  31 }, 
+				{  1,  9,  6, 31 }, 
 				{  9, 12, 18, 18 }, // todos multiplos de 3
 				{ 15, 14,  9, 30 } };
 		mat = aux;
